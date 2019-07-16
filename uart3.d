@@ -1,0 +1,11 @@
+.\uart3.o: uart3.c
+.\uart3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\lpc17xx.h
+.\uart3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\uart3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\uart3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\uart3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\uart3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\uart3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\system_LPC17xx.h
+.\uart3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\uart3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\uart3.o: uart.h

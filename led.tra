@@ -1,0 +1,38 @@
+*** Creating Trace Output File 'led.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"uart.o"'
+### List of Objects: adding '"command.o"'
+### List of Objects: adding '"control.o"'
+### List of Objects: adding '"iic.o"'
+### List of Objects: adding '"24c128.o"'
+### List of Objects: adding '"delay.o"'
+### List of Objects: adding '"io.o"'
+### List of Objects: adding '"uart1.o"'
+### List of Objects: adding '"timer.o"'
+### List of Objects: adding '"toyocontrol.o"'
+### List of Objects: adding '"repeathandle.o"'
+### List of Objects: adding '"uart2.o"'
+### List of Objects: adding '"iic1.o"'
+### List of Objects: adding '"iic2.o"'
+### List of Objects: adding '"pca9655e.o"'
+### List of Objects: adding '"uart3.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_lpc17xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_lpc17xx.o" "main.o" "uart.o" "command.o" "control.o" "iic.o" "24c128.o" "delay.o" "io.o" "uart1.o" "timer.o" "toyocontrol.o" "repeathandle.o" "uart2.o" "iic1.o" "iic2.o" "pca9655e.o" "uart3.o" "core_cm3.o" "system_lpc17xx.o" --strict --scatter "led.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\led.map" -o led.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'led.axf'
+### ADS-LD Command File: 'led.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'led.lnp', Handle=0x0000030C
+### Writing '.lnp' file
+### ADS-LD Command file 'led.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,13 @@
+timer1.o: timer1.c
+timer1.o: d:\Keil_v4\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+timer1.o: d:\Keil_v4\ARM\CMSIS\Include\core_cm3.h
+timer1.o: d:\Keil_v4\ARM\RV31\Inc\stdint.h
+timer1.o: d:\Keil_v4\ARM\CMSIS\Include\core_cmInstr.h
+timer1.o: d:\Keil_v4\ARM\CMSIS\Include\core_cmFunc.h
+timer1.o: d:\Keil_v4\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+timer1.o: io.h
+timer1.o: uart.h
+timer1.o: Command.H
+timer1.o: motor.h
+timer1.o: delay.h
+timer1.o: control.h

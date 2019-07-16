@@ -1,0 +1,12 @@
+.\pca9655e.o: PCA9655E.c
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\lpc17xx.h
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\pca9655e.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\pca9655e.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\system_LPC17xx.h
+.\pca9655e.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\pca9655e.o: IIC1.h
+.\pca9655e.o: IIC2.h
+.\pca9655e.o: uart.h

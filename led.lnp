@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+".\startup_lpc17xx.o"
+".\main.o"
+".\uart.o"
+".\command.o"
+".\control.o"
+".\iic.o"
+".\24c128.o"
+".\delay.o"
+".\io.o"
+".\uart1.o"
+".\timer.o"
+".\toyocontrol.o"
+".\repeathandle.o"
+".\uart2.o"
+".\iic1.o"
+".\iic2.o"
+".\pca9655e.o"
+".\uart3.o"
+".\core_cm3.o"
+".\system_lpc17xx.o"
+--strict --scatter ".\led.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\led.map" -o .\led.axf

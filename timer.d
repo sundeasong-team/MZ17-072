@@ -1,0 +1,15 @@
+.\timer.o: timer.c
+.\timer.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\lpc17xx.h
+.\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\timer.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\timer.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\1.0.0\Device\Include\system_LPC17xx.h
+.\timer.o: timer.h
+.\timer.o: uart.h
+.\timer.o: control.h
+.\timer.o: io.h
+.\timer.o: delay.h
+.\timer.o: repeathandle.h
+.\timer.o: ToyoControl.h

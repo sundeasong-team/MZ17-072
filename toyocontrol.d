@@ -1,0 +1,9 @@
+.\toyocontrol.o: ToyoControl.c
+.\toyocontrol.o: ToyoControl.h
+.\toyocontrol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\toyocontrol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\toyocontrol.o: delay.h
+.\toyocontrol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\toyocontrol.o: Uart.H
+.\toyocontrol.o: Uart2.h
+.\toyocontrol.o: repeathandle.h
